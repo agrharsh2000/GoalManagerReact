@@ -1,5 +1,5 @@
 import styled from "styled-components";
-
+import React from "react";
 const Button = styled.button`
   font: inherit;
   padding: 0.5rem 1.5rem;
